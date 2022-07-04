@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="Vista">0</string>
+    <string name="numseven">7</string>
+    <string name="numfour">4</string>
+    <string name="numone">1</string>
+    <string name="numcero">0</string>
+    <string name="numeight">8</string>
+    <string name="numfive">5</string>
+    <string name="numtwo">2</string>
+    <string name="punt">.</string>
+    <string name="numnine">9</string>
+    <string name="numsix">6</string>
+    <string name="numthree">3</string>
+    <string name="equals">=</string>
+    <string name="erase">E</string>
+    <string name="div">/</string>
+    <string name="mul">*</string>
+    <string name="rest">-</string>
+    <string name="sum">+</string>
+</resources>
